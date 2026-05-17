@@ -1,4 +1,4 @@
-#/Welcome here!
+# /Welcome here!
 
 I’m **@ShiningPr1sm** - coding enthusiast who enjoys turning Java and databases into something useful for my needs and small programs for my friends' needs)
 
@@ -6,7 +6,7 @@ Currently exploring frameworks, writing side-projects, and leveling up my skills
 
 ---
 
-###/Tech Stack
+### /Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-edc840?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-109e55?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,14 +18,14 @@ Currently exploring frameworks, writing side-projects, and leveling up my skills
 
 ---
 
-###/GitHub Stats
+### /GitHub Stats
 
 ![ShiningPr1sm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiningPr1sm&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiningPr1sm&layout=compact&theme=tokyonight)
 
 ---
 
-###/About Me
+### /About Me
 - 🚀 Passionate about **Java & backend**;
 - 🛠️ Currently deep learning **Spring** and database optimization;
 - 🎮 In free time: gaming, experimenting with side projects;
@@ -33,6 +33,6 @@ Currently exploring frameworks, writing side-projects, and leveling up my skills
 
 ---
 
-###/Connect with me
+### /Connect with me
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ShiningPrism@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](shiningpr1sm)
