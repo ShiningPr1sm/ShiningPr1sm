@@ -1,14 +1,20 @@
 # /Welcome here!
 
-I’m **@ShiningPr1sm** - coding enthusiast who enjoys turning Java and databases into something useful for my needs and small programs for my friends' needs)
+I’m **@ShiningPr1sm** - a passionate software developer deeply invested in the **Java & Backend ecosystem**. I thrive on breaking down complex software architecture, optimizing performance, and building everything from custom CLI automation tools to high-load distributed systems.
 
-Currently exploring frameworks, writing side-projects, and leveling up my skills in backend development.  
+---
+
+### Current Focus
+* **Core & Advanced Java:** Writing clean, efficient, and multi-threaded code.
+* **Backend Architecture:** Deep diving into Spring Ecosystem (Boot, Security, Data) and robust database optimization.
+* **Side Projects:** Crafting custom development libraries, experimental microservices, and tooling that enhances terminal environments.
 
 ---
 
 ### /Tech Stack
 
-![Java](https://img.shields.io/badge/Java-edc840?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%23BC3433.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-109e55?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-9e1010?style=for-the-badge&logo=git&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3268bf?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -16,23 +22,27 @@ Currently exploring frameworks, writing side-projects, and leveling up my skills
 ![SQLite](https://img.shields.io/badge/SQLite-3268bf?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![HTML/CSS/JS](https://img.shields.io/badge/HTML%2F-CSS%2FJS-369c69?style=for-the-badge&logo=javascript&logoColor=white)
 
+[![Website](https://img.shields.io/badge/shiningpr1sm.dev-DE52D2?style=for-the-badge&logo=freebsd&logoColor=F5F533)](https://shiningpr1sm.dev)
+
 ---
 
 ### /GitHub Stats
 
-![ShiningPr1sm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiningPr1sm&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiningPr1sm&layout=compact&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/ShiningPr1sm?template=classic&config.timezone=Europe%2FBerlin)
 
 ---
 
 ### /About Me
-- 🚀 Passionate about **Java & backend**;
-- 🛠️ Currently deep learning **Spring** and database optimization;
-- 🎮 In free time: gaming, experimenting with side projects;
-- 🤝 Open to collaboration and new ideas and projects.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" style="vertical-align: middle; margin-bottom: 4px;"/>&nbsp; Passionate about **Java & backend**;
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" style="vertical-align: middle; margin-bottom: 4px;"/>&nbsp; Currently deep learning **Spring** and database optimization;
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" width="20" style="vertical-align: middle; margin-bottom: 4px;"/>&nbsp; In free time: gaming, experimenting with side projects;
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" style="vertical-align: middle; margin-bottom: 4px;"/>&nbsp; Open to collaboration and new ideas and projects.
 
 ---
 
-### /Connect with me
-[![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ShiningPrism@proton.me)
+### /Contact with me
+[![Email](https://img.shields.io/badge/info@shiningpr1sm.dev-24283b?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@shiningpr1sm.dev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](shiningpr1sm)
+[![Telegram Profile](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shiningpr1sm)
+[![Telegram Channel](https://img.shields.io/badge/Channel-2EA6E6?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/shiningpr0xsm)
