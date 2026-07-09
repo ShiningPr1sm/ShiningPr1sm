@@ -1,13 +1,13 @@
 # /Welcome here!
 
-I’m **@ShiningPr1sm** - a passionate software developer deeply invested in the **Java & Backend ecosystem**. I thrive on breaking down complex software architecture, optimizing performance, and building everything from custom CLI automation tools to high-load distributed systems.
+I’m **@ShiningPr1sm** - a passionate software Java developer. I thrive on breaking down complex software architecture, optimizing performance, and building everything from custom CLI automation tools to high-load distributed systems.
 
 ---
 
-### Current Focus
-* **Core & Advanced Java:** Writing clean, efficient, and multi-threaded code.
+### /Current Focus
+* **Core & Java:** Writing clean, efficient, and multi-threaded code.
 * **Backend Architecture:** Deep diving into Spring Ecosystem (Boot, Security, Data) and robust database optimization.
-* **Side Projects:** Crafting custom development libraries, experimental microservices, and tooling that enhances terminal environments.
+* **Side Projects:** Crafting custom development libraries, experimental microservices, and just simple UI programs.
 
 ---
 
@@ -29,15 +29,6 @@ I’m **@ShiningPr1sm** - a passionate software developer deeply invested in the
 ### /GitHub Stats
 
 ![Metrics](https://metrics.lecoq.io/ShiningPr1sm?template=classic&config.timezone=Europe%2FBerlin)
-
----
-
-### /About Me
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" style="vertical-align: middle; margin-bottom: 4px;"/>&nbsp; Passionate about **Java & backend**;
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" style="vertical-align: middle; margin-bottom: 4px;"/>&nbsp; Currently deep learning **Spring** and database optimization;
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" width="20" style="vertical-align: middle; margin-bottom: 4px;"/>&nbsp; In free time: gaming, experimenting with side projects;
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" style="vertical-align: middle; margin-bottom: 4px;"/>&nbsp; Open to collaboration and new ideas and projects.
 
 ---
 
