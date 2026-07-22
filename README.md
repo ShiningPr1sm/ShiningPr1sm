@@ -1,13 +1,13 @@
 # /Welcome here!
 
-I’m **@ShiningPr1sm** - a passionate software Java developer. I thrive on breaking down complex software architecture, optimizing performance, and building everything from custom CLI automation tools to high-load distributed systems.
+I'm **@ShiningPr1sm** — a Java software developer who loves breaking down complex architectures, optimizing performance, and building everything from custom CLI tools to high-load distributed systems.
+I genuinely love what I do.
 
 ---
 
-### /Current Focus
-* **Core & Java:** Writing clean, efficient, and multi-threaded code.
-* **Backend Architecture:** Deep diving into Spring Ecosystem (Boot, Security, Data) and robust database optimization.
-* **Side Projects:** Crafting custom development libraries, experimental microservices, and just simple UI programs.
+### My personal website
+
+[![Website](https://img.shields.io/badge/shiningpr1sm.dev-DE52D2?style=for-the-badge&logo=freebsd&logoColor=F5F533)](https://shiningpr1sm.dev)
 
 ---
 
@@ -21,8 +21,6 @@ I’m **@ShiningPr1sm** - a passionate software Java developer. I thrive on brea
 ![MySQL](https://img.shields.io/badge/MySQL-3268bf?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-3268bf?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![HTML/CSS/JS](https://img.shields.io/badge/HTML%2F-CSS%2FJS-369c69?style=for-the-badge&logo=javascript&logoColor=white)
-
-[![Website](https://img.shields.io/badge/shiningpr1sm.dev-DE52D2?style=for-the-badge&logo=freebsd&logoColor=F5F533)](https://shiningpr1sm.dev)
 
 ---
 
