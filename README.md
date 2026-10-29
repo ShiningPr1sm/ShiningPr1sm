@@ -5,7 +5,7 @@ I genuinely love what I do.
 
 ---
 
-### My personal website
+### /My personal website
 
 [![Website](https://img.shields.io/badge/shiningpr1sm.dev-DE52D2?style=for-the-badge&logo=freebsd&logoColor=F5F533)](https://shiningpr1sm.dev)
 
@@ -26,7 +26,7 @@ I genuinely love what I do.
 
 ### /GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/ShiningPr1sm?template=classic&config.timezone=Europe%2FBerlin)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ShiningPr1sm&theme=midnight_sakura&show_ring=false&hide_border=true&hide_title=true&border_radius=23&hide=week%2Ctrend%2Cfollowers%2Crepos&order=stars%2Ccontributions%2Ccommits%2Cissues%2Cprs%2Chours%2Cstreak%2Cavg%2Cactive_day%2Cgrade)
 
 ---
 
